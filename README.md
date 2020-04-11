@@ -6,7 +6,7 @@ Language
 - AutoHotkey
 
 Instructions
-- Press F7 to remove all permenent links.
+- Press F7 to remove permenent links.
 - Press F5 to add numbers
 
 ![AutoHotKey](https://github.com/lalantham/Facebook-Link-Organizer/blob/master/AutoHotKey.gif)
